@@ -134,34 +134,34 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #555555; 
-  width: 62.579%;
+  width: 62.609%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 23.178%;
+  width: 23.189%;
 " class="progress-item"></span><span style="
   background-color: #6E4C13; 
-  width: 6.246%;
+  width: 6.249%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 2.206%;
+  width: 2.207%;
 " class="progress-item"></span><span style="
   background-color: #0298c3; 
-  width: 2.084%;
+  width: 2.085%;
 " class="progress-item"></span><span style="
   background-color: #178600; 
-  width: 0.542%;
+  width: 0.495%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.454%;
+  width: 0.455%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 0.348%;
+  width: 0.347%;
 " class="progress-item"></span><span style="
   background-color: #427819; 
   width: 0.307%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 0.251%;
+  width: 0.252%;
 " class="progress-item"></span><span style="
   background-color: #000; 
   width: 0.184%;
@@ -224,7 +224,7 @@ div.ellipsis {
   width: 0.026%;
 " class="progress-item"></span><span style="
   background-color: #000; 
-  width: 0.025%;
+  width: 0.026%;
 " class="progress-item"></span><span style="
   background-color: #000; 
   width: 0.020%;
@@ -380,7 +380,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C</span>
-  <span class="percent">62.58%</span>
+  <span class="percent">62.61%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -396,7 +396,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C++</span>
-  <span class="percent">23.18%</span>
+  <span class="percent">23.19%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -460,7 +460,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C#</span>
-  <span class="percent">0.54%</span>
+  <span class="percent">0.50%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
