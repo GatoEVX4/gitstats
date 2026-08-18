@@ -134,13 +134,13 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #555555; 
-  width: 62.557%;
+  width: 62.554%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 23.170%;
+  width: 23.168%;
 " class="progress-item"></span><span style="
   background-color: #6E4C13; 
-  width: 6.242%;
+  width: 6.241%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
   width: 2.203%;
@@ -158,7 +158,7 @@ div.ellipsis {
   width: 0.358%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 0.335%;
+  width: 0.337%;
 " class="progress-item"></span><span style="
   background-color: #427819; 
   width: 0.306%;
@@ -184,11 +184,11 @@ div.ellipsis {
   background-color: #FBEE96; 
   width: 0.079%;
 " class="progress-item"></span><span style="
+  background-color: #4F5D95; 
+  width: 0.073%;
+" class="progress-item"></span><span style="
   background-color: #DA3434; 
   width: 0.072%;
-" class="progress-item"></span><span style="
-  background-color: #4F5D95; 
-  width: 0.070%;
 " class="progress-item"></span><span style="
   background-color: #5686a5; 
   width: 0.058%;
@@ -377,7 +377,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C</span>
-  <span class="percent">62.56%</span>
+  <span class="percent">62.55%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -639,22 +639,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #DA3434;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">CMake</span>
-  <span class="percent">0.07%</span>
-</li>
-<li style="animation-delay: 2850ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #4F5D95;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -665,6 +649,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PHP</span>
+  <span class="percent">0.07%</span>
+</li>
+<li style="animation-delay: 2850ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #DA3434;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">CMake</span>
   <span class="percent">0.07%</span>
 </li>
 <li style="animation-delay: 3000ms;">
