@@ -134,10 +134,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #555555; 
-  width: 62.341%;
+  width: 62.336%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 23.090%;
+  width: 23.088%;
 " class="progress-item"></span><span style="
   background-color: #6E4C13; 
   width: 6.220%;
@@ -149,13 +149,13 @@ div.ellipsis {
   width: 2.075%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 0.694%;
+  width: 0.695%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 0.468%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 0.381%;
+  width: 0.382%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
   width: 0.373%;
@@ -169,11 +169,11 @@ div.ellipsis {
   background-color: #000; 
   width: 0.162%;
 " class="progress-item"></span><span style="
+  background-color: #b07219; 
+  width: 0.157%;
+" class="progress-item"></span><span style="
   background-color: #dea584; 
   width: 0.153%;
-" class="progress-item"></span><span style="
-  background-color: #b07219; 
-  width: 0.152%;
 " class="progress-item"></span><span style="
   background-color: #EB8CEB; 
   width: 0.112%;
@@ -559,22 +559,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #dea584;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">Rust</span>
-  <span class="percent">0.15%</span>
-</li>
-<li style="animation-delay: 2100ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #b07219;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -585,6 +569,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Java</span>
+  <span class="percent">0.16%</span>
+</li>
+<li style="animation-delay: 2100ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #dea584;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Rust</span>
   <span class="percent">0.15%</span>
 </li>
 <li style="animation-delay: 2250ms;">
